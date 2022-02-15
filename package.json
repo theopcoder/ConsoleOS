@@ -1,0 +1,14 @@
+{
+  "name": "ConsoleOS",
+  "version": "0.0.1",
+  "description": "A fun project using Node JS to make a type of console operating system.",
+  "main": "app.js",
+  "author": {
+    "name": "theopcoder"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt": "^1.2.1",
+    "quick.db": "^7.1.3"
+  }
+}

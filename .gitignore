@@ -1,0 +1,7 @@
+package-lock.json
+ConsoleOS.njsproj
+node_modules
+json.sqlite
+bin
+.vs
+obj
